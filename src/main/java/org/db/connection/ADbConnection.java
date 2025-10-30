@@ -76,6 +76,24 @@ public abstract class ADbConnection implements IDbConnection {
     public abstract Boolean disconnect();
 
     /**
+     * Create inserts in any table that has 'nome' and 'email' columns.
+     * @param table The name of the table where data will be inserted (e.g., "usuarios").
+     * @return true if the select is successful, false otherwise.
+     */
+    @Override
+    public abstract Boolean select(String table);
+
+    /**
+     * Create inserts in any table that has 'nome' and 'email' columns.
+     * @param table The name of the table where data will be inserted (e.g., "usuarios").
+     * @param nome The user's name to be inserted.
+     * @param email The user's email to be inserted.
+     * @return true if the insert is successful, false otherwise.
+     */
+    @Override
+    public abstract Boolean insert(String table, String nome, String email);
+
+    /**
      * {@inheritDoc}
      * This method must be implemented by subclasses to verify or create
      * necessary database structures, such as tables.
