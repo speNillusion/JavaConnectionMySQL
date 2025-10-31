@@ -389,7 +389,7 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
 
 ## 👥 Autores
 
-- Desenvolvido por [Seu Nome] - [seu.email@exemplo.com]
+- Desenvolvido por João Pedro
 
 ## 🔗 Links Úteis
 
@@ -398,7 +398,3 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
 - [Maven Documentation](https://maven.apache.org/guides/)
 
 ---
-
-<p align="center">
-Feito com ❤️ usando Java e MySQL
-</p>

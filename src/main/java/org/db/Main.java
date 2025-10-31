@@ -134,7 +134,6 @@ public class Main {
             dicUsers.put("Davi Lucca", "davilucca@gmail.com");
             dicUsers.put("Ana Laura", "analaura@gmail.com");
             dicUsers.put("Pedro Henrique", "pedrohenrique@gmail.com");
-            dicUsers.put("Mariana", "mariana2@gmail.com");
             dicUsers.put("Joao Lucas", "joaolucas@gmail.com");
             dicUsers.put("Ana Beatriz", "anabeatriz@gmail.com");
             dicUsers.put("Joao Guilherme", "joaoguilherme@gmail.com");
