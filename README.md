@@ -385,7 +385,7 @@ java.util.logging.ConsoleHandler.formatter = java.util.logging.SimpleFormatter
 
 ## 📄 Licença
 
-Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob licença MIT.
 
 ## 👥 Autores
 
